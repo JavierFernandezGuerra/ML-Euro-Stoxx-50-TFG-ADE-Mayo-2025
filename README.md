@@ -1,10 +1,10 @@
 # 🎓 ML & Euro Stoxx 50 — Trabajo Fin de Grado
 
-Autor: Javier Fernández Guerra | Tutor: Alfonso Santos Ramón | Fecha: Mayo 2025
+**Autor:** Javier Fernández Guerra | Tutor: Alfonso Santos Ramón | Fecha: Mayo 2025
 
-Grado: Administración y Dirección de Empresas, Mención en Análisis de Datos
+**Grado:** Administración y Dirección de Empresas, Mención en Análisis de Datos
 
-Calificación: Matrícula de Honor 
+**Calificación:** Matrícula de Honor 
 
 ---
 
